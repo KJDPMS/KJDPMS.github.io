@@ -1,0 +1,27 @@
+
+body { 
+    overflow: hidden; 
+    margin: 0px;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 200%;
+}
+
+img {
+    size: 10%;
+}
+
+
+.text-alignment {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-size: 120%;
+    word-wrap: break-word;
+    width: 85vw;
+    line-height: 4.5vh;
+}
+
